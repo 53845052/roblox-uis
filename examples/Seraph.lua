@@ -1,5 +1,5 @@
-local Seraph = loadstring(game:HttpGet("https://raw.githubusercontent.com/53845052/roblox-uis/SeraphLib.lua"))(); Seraph:SetWindowKeybind(Enum.KeyCode.RightShift)
-local Themes = game:GetService("HttpService"):JSONDecode(game:HttpGet("https://raw.githubusercontent.com/53845052/roblox-uis/SeraphLib.lua"))
+local Seraph = loadstring(game:HttpGet("https://raw.githubusercontent.com/53845052/roblox-uis/refs/heads/main/SeraphLib.lua"))(); Seraph:SetWindowKeybind(Enum.KeyCode.RightShift)
+local Themes = game:GetService("HttpService"):JSONDecode(game:HttpGet("https://raw.githubusercontent.com/53845052/roblox-uis/refs/heads/main/themes/Seraph.json"))
 local ThemeList, ThemeNames = {}, {"Default"} do
   ThemeList.Default = Seraph:GetTheme()
   for Theme, Data in Themes do
