@@ -652,8 +652,6 @@ function Library:Window(Options)
 						local Fill = Create("Frame", {Parent = Track, BorderSizePixel = 0, Size = UDim2.new(0, 0, 1, 0)})
 						BindToTheme(Fill, "BackgroundColor3", "Accent")
 						Create("UICorner", {Parent = Fill, CornerRadius = UDim.new(0, 2)})
-						-- Removed gradient from slider fill as requested
-						-- BindGradient(Fill, "Accent")
 
 						local Thumb = Create("Frame", {Parent = Track, BorderSizePixel = 0, AnchorPoint = Vector2.new(0.5, 0.5), Size = UDim2.new(0, 12, 0, 12), BackgroundTransparency = 1})
 						BindToTheme(Thumb, "BackgroundColor3", "Accent")
@@ -824,7 +822,7 @@ function Library:Window(Options)
 
 					if Switch then
 						local TargetTheme = State and "Accent" or "ElementStroke"
-						BindGradient(Switch, TargetTheme) -- This now updates existing registry instead of duplicating
+						BindGradient(Switch, TargetTheme)
 						TweenGradient(Switch, Library.Theme[TargetTheme], 0.3)
 
 						local TargetKnobColor = State and Color3.new(0, 0, 0) or Color3.new(1, 1, 1)
@@ -910,8 +908,6 @@ function Library:Window(Options)
 				local Fill = Create("Frame", {Parent = Track, BorderSizePixel = 0, Size = UDim2.new(0, 0, 1, 0)})
 				BindToTheme(Fill, "BackgroundColor3", "Accent")
 				Create("UICorner", {Parent = Fill, CornerRadius = UDim.new(0, 2)})
-				-- Removed gradient from slider fill as requested
-				-- BindGradient(Fill, "Accent")
 
 				local ThumbMax = Create("Frame", {Parent = Track, BorderSizePixel = 0, AnchorPoint = Vector2.new(0.5, 0.5), Size = UDim2.new(0, 12, 0, 12), BackgroundTransparency = 1})
 				BindToTheme(ThumbMax, "BackgroundColor3", "Accent")
