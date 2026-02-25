@@ -56,7 +56,7 @@ local function GetDarkerColor(Color)
 end
 
 local function GetTime(BaseTime)
-	return BaseTime * Library.Theme.AnimationSpeed
+	return BaseTime / Library.Theme.AnimationSpeed
 end
 
 local function BindToTheme(Obj, Prop, ThemeKey)
