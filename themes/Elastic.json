@@ -1,0 +1,282 @@
+{
+  "GitHub Dark": {
+    "Body": "13,17,23",
+    "Sidebar": "1,4,9",
+    "Main": "22,27,34",
+    "Search": "13,17,23",
+    "TextPrimary": "230,237,243",
+    "TextSecondary": "139,148,158",
+    "Accent": "47,129,247",
+    "Border": "48,54,61"
+  },
+  "Tokyo Night": {
+    "Body": "26,27,38",
+    "Sidebar": "22,22,30",
+    "Main": "26,27,38",
+    "Search": "41,46,66",
+    "TextPrimary": "192,202,245",
+    "TextSecondary": "86,95,137",
+    "Accent": "122,162,247",
+    "Border": "56,62,90"
+  },
+  "Catppuccin Mocha": {
+    "Body": "30,30,46",
+    "Sidebar": "17,17,27",
+    "Main": "30,30,46",
+    "Search": "49,50,68",
+    "TextPrimary": "205,214,244",
+    "TextSecondary": "166,173,200",
+    "Accent": "203,166,247",
+    "Border": "69,71,90"
+  },
+  "Rose Pine": {
+    "Body": "25,23,36",
+    "Sidebar": "31,29,46",
+    "Main": "38,35,58",
+    "Search": "64,61,82",
+    "TextPrimary": "224,222,244",
+    "TextSecondary": "144,140,170",
+    "Accent": "235,188,186",
+    "Border": "72,69,92"
+  },
+  "Nord Frost": {
+    "Body": "46,52,64",
+    "Sidebar": "59,66,82",
+    "Main": "46,52,64",
+    "Search": "67,76,94",
+    "TextPrimary": "236,239,244",
+    "TextSecondary": "129,161,193",
+    "Accent": "136,192,208",
+    "Border": "76,86,106"
+  },
+  "Everforest Dark": {
+    "Body": "45,53,59",
+    "Sidebar": "43,49,54",
+    "Main": "51,59,64",
+    "Search": "61,70,75",
+    "TextPrimary": "211,216,183",
+    "TextSecondary": "133,146,137",
+    "Accent": "167,192,128",
+    "Border": "71,82,88"
+  },
+  "Dracula Vampire": {
+    "Body": "40,42,54",
+    "Sidebar": "33,34,44",
+    "Main": "40,42,54",
+    "Search": "68,71,90",
+    "TextPrimary": "248,248,242",
+    "TextSecondary": "144,144,144",
+    "Accent": "189,147,249",
+    "Border": "98,114,164"
+  },
+  "Gruvbox Hard": {
+    "Body": "40,40,40",
+    "Sidebar": "28,28,28",
+    "Main": "40,40,40",
+    "Search": "50,48,47",
+    "TextPrimary": "235,219,178",
+    "TextSecondary": "168,153,132",
+    "Accent": "254,128,25",
+    "Border": "60,56,54"
+  },
+  "Deep Sea": {
+    "Body": "5,15,25",
+    "Sidebar": "10,25,40",
+    "Main": "15,35,55",
+    "Search": "25,50,75",
+    "TextPrimary": "255,255,255",
+    "TextSecondary": "100,160,220",
+    "Accent": "0,210,255",
+    "Border": "30,70,110"
+  },
+  "Linear Dark": {
+    "Body": "12,12,14",
+    "Sidebar": "18,18,20",
+    "Main": "12,12,14",
+    "Search": "25,25,28",
+    "TextPrimary": "239,239,241",
+    "TextSecondary": "138,138,142",
+    "Accent": "94,106,210",
+    "Border": "35,35,39"
+  },
+  "Arc Midnight": {
+    "Body": "14,16,22",
+    "Sidebar": "20,24,35",
+    "Main": "14,16,22",
+    "Search": "31,37,54",
+    "TextPrimary": "255,255,255",
+    "TextSecondary": "120,132,164",
+    "Accent": "77,153,255",
+    "Border": "42,48,68"
+  },
+  "Shadcn": {
+    "Body": "0,0,0",
+    "Sidebar": "9,9,11",
+    "Main": "0,0,0",
+    "Search": "24,24,27",
+    "TextPrimary": "250,250,250",
+    "TextSecondary": "161,161,170",
+    "Accent": "255,255,255",
+    "Border": "39,39,42"
+  },
+  "Twitch Dark": {
+    "Body": "14,14,16",
+    "Sidebar": "24,24,27",
+    "Main": "14,14,16",
+    "Search": "31,31,35",
+    "TextPrimary": "239,239,241",
+    "TextSecondary": "173,173,184",
+    "Accent": "145,71,255",
+    "Border": "38,38,44"
+  },
+  "Linear Light": {
+    "Body": "255,255,255",
+    "Sidebar": "247,248,250",
+    "Main": "255,255,255",
+    "Search": "238,239,242",
+    "TextPrimary": "17,17,19",
+    "TextSecondary": "110,111,114",
+    "Accent": "94,106,210",
+    "Border": "225,226,230"
+  },
+  "Amethyst Deep": {
+    "Body": "18,14,24",
+    "Sidebar": "25,20,34",
+    "Main": "18,14,24",
+    "Search": "35,28,47",
+    "TextPrimary": "255,255,255",
+    "TextSecondary": "163,148,184",
+    "Accent": "191,123,255",
+    "Border": "48,39,64"
+  },
+  "Crimson Edge": {
+    "Body": "15,10,10",
+    "Sidebar": "22,14,14",
+    "Main": "15,10,10",
+    "Search": "31,20,20",
+    "TextPrimary": "255,245,245",
+    "TextSecondary": "184,148,148",
+    "Accent": "255,77,77",
+    "Border": "51,31,31"
+  },
+  "Matcha Tea": {
+    "Body": "28,30,28",
+    "Sidebar": "34,38,34",
+    "Main": "28,30,28",
+    "Search": "45,51,45",
+    "TextPrimary": "235,245,235",
+    "TextSecondary": "150,165,150",
+    "Accent": "120,180,120",
+    "Border": "60,70,60"
+  },
+  "Cyber Orange": {
+    "Body": "10,10,10",
+    "Sidebar": "18,18,18",
+    "Main": "10,10,10",
+    "Search": "28,28,28",
+    "TextPrimary": "255,255,255",
+    "TextSecondary": "150,150,150",
+    "Accent": "255,165,0",
+    "Border": "40,40,40"
+  },
+  "Ghost in the Shell": {
+    "Body": "10,15,20",
+    "Sidebar": "15,25,30",
+    "Main": "20,30,35",
+    "Search": "30,45,50",
+    "TextPrimary": "150,255,240",
+    "TextSecondary": "100,180,170",
+    "Accent": "0,255,200",
+    "Border": "40,60,65"
+  },
+  "Vanilla Latte": {
+    "Body": "245,240,235",
+    "Sidebar": "235,230,225",
+    "Main": "255,255,255",
+    "Search": "240,235,230",
+    "TextPrimary": "50,45,40",
+    "TextSecondary": "140,130,120",
+    "Accent": "180,150,120",
+    "Border": "215,205,195"
+  },
+  "Midnight Forest": {
+    "Body": "15,20,18",
+    "Sidebar": "22,28,25",
+    "Main": "15,20,18",
+    "Search": "35,45,40",
+    "TextPrimary": "230,240,235",
+    "TextSecondary": "140,160,150",
+    "Accent": "100,255,150",
+    "Border": "45,55,50"
+  },
+  "Obsidian Purple": {
+    "Body": "18,18,18",
+    "Sidebar": "25,25,25",
+    "Main": "18,18,18",
+    "Search": "32,32,32",
+    "TextPrimary": "255,255,255",
+    "TextSecondary": "160,160,160",
+    "Accent": "113,89,234",
+    "Border": "45,45,45"
+  },
+  "Rose Quartz": {
+    "Body": "250,245,247",
+    "Sidebar": "240,230,235",
+    "Main": "255,255,255",
+    "Search": "245,235,240",
+    "TextPrimary": "80,60,70",
+    "TextSecondary": "160,140,150",
+    "Accent": "255,180,200",
+    "Border": "230,210,220"
+  },
+  "Sahara Dust": {
+    "Body": "34,30,26",
+    "Sidebar": "26,23,20",
+    "Main": "34,30,26",
+    "Search": "45,40,35",
+    "TextPrimary": "245,240,230",
+    "TextSecondary": "160,150,140",
+    "Accent": "225,175,110",
+    "Border": "60,55,50"
+  },
+  "Deep Space": {
+    "Body": "8,10,15",
+    "Sidebar": "12,15,22",
+    "Main": "8,10,15",
+    "Search": "20,25,35",
+    "TextPrimary": "240,245,255",
+    "TextSecondary": "120,135,160",
+    "Accent": "90,140,255",
+    "Border": "30,35,50"
+  },
+  "Tonal Slate": {
+    "Body": "15,23,31",
+    "Sidebar": "30,41,51",
+    "Main": "15,23,31",
+    "Search": "30,41,51",
+    "TextPrimary": "241,245,249",
+    "TextSecondary": "148,163,184",
+    "Accent": "56,189,248",
+    "Border": "51,65,85"
+  },
+  "Bordeaux": {
+    "Body": "20,10,12",
+    "Sidebar": "28,15,18",
+    "Main": "20,10,12",
+    "Search": "45,20,25",
+    "TextPrimary": "255,240,240",
+    "TextSecondary": "180,130,135",
+    "Accent": "230,50,70",
+    "Border": "60,30,35"
+  },
+  "Paper Dark": {
+    "Body": "30,32,35",
+    "Sidebar": "25,27,30",
+    "Main": "30,32,35",
+    "Search": "40,42,45",
+    "TextPrimary": "220,225,230",
+    "TextSecondary": "130,135,140",
+    "Accent": "200,200,200",
+    "Border": "60,62,65"
+  }
+}
