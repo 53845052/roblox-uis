@@ -6,6 +6,6 @@
 
 ![stellar](previews/stellar.png)
 
-# Stellar UI
+# Elastic UI
 
 ![elastic](previews/elastic.png)
