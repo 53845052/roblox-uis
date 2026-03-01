@@ -101,7 +101,7 @@ local Window = Stellar:Window({Title = "Stellar", SubTitle = "github.com/5384505
   local Toggles = Window:Tab({Title = "Toggles"}) do
     -- Flags are required for options to save
     Toggles:Toggle({Title = "Toggle", Description = "A simple toggle.", Flag = "SimpleToggle"})
-    Toggles:label({Title = "Info", Description = "Right click the Keybind to change it's mode, left click to change it."})
+    Toggles:Label({Title = "Info", Description = "Right click the Keybind to change it's mode, left click to change it."})
     Toggles:Toggle({Title = "Toggle", Description = "A simple bind toggle.", Flag = "BindToggle"}):Bind({Mode = "Hold", Default = Enum.UserInputType.MouseButton1, Flag = "Bind_BindToggle"})
     Toggles:Toggle({Title = "Toggle", Description = "A simple toggle with a color picker", Flag = "ColorPickerToggle"}):Colorpicker({Default = Stellar:GetTheme().Accent, Flag = "Color_ColorPickerToggle"})
     Toggles:Toggle({Title = "Toggle", Description = "A simple toggle with multiple color pickers", Flag = "ColorPickersToggle"})
