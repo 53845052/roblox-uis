@@ -179,7 +179,6 @@ local Window = Elastic:Window() do
         local NewColor = Color3.fromHSV(n, 0.4, 1)
         n = (n + 0.01) % 1
         Theme.Accent = NewColor
-        Elastic:SetTheme(Theme)
         Elastic.Flags["Theme_Accent"]:SetValue(NewColor)
         task.wait(0.05)
       end
