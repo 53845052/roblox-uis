@@ -19,6 +19,11 @@ if game:GetService("RunService"):IsStudio() then
   readfile = function(path)
     return files[path]
   end
+  isfolder = function(path)
+    return true
+  end
+  makefolder = function(path)
+  end
   listfiles = function(path)
     local list = {}
     for filepath in files do
@@ -30,6 +35,9 @@ if game:GetService("RunService"):IsStudio() then
   end
 end
 
+if not isfolder("seraph") then
+  makefolder("seraph")
+end
 
 -- or Seraph:Window("rbxassetid://10723407389")
 local Window = Seraph:Window("Seraph") do

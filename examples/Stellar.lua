@@ -19,6 +19,11 @@ if game:GetService("RunService"):IsStudio() then
   readfile = function(path)
     return files[path]
   end
+  isfolder = function(path)
+    return true
+  end
+  makefolder = function(path)
+  end
   listfiles = function(path)
     local list = {}
     for filepath in files do
@@ -28,6 +33,10 @@ if game:GetService("RunService"):IsStudio() then
     end
     return list
   end
+end
+
+if not isfolder("stellar") then
+  makefolder("stellar")
 end
 
 local function GetConfigList()
